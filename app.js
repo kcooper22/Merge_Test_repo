@@ -1,7 +1,5 @@
 var two = 2;
 
-console.log("yellow")
-
 two = two +3;
 
 console.log("sweet new code")
