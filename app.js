@@ -8,7 +8,7 @@ var error = "merge conflict!!"
 
 var newvar = "wooo code"
 
-for(i=0;i<4;i++){
-	console.log("hi!!!! " + (i+i)
+for(i=0;i<8;i++){
+	console.log("hi!!!! " + (i*2))
 }
 
