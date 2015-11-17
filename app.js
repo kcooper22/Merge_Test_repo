@@ -9,10 +9,10 @@ var error = "merge conflict!!"
 var newvar = "wooo code"
 
 for(i=0;i<8;i++){
-	if (i<4){
-		console.log("stuff")
-	} else if (i>4){
-		console.log("trying")
-	} 
+
+	for(x=0;x<=5;x++){
+		two++
+	}
+
 }
 
