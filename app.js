@@ -7,8 +7,8 @@ console.log("sweet new code")
 var newvar = "wooo code"
 
 for(i=0;i<8;i++){
-	if (i<4){
-		console.log("stuff")
+	for(x=0;x<=5;x++){
+		two++
 	}
 }
 
